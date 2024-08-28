@@ -1,0 +1,10 @@
+{
+    "datacenter": "dc1",
+    "data_dir": "/consul/data",
+    "log_level": "INFO",
+    "node_name": "consul-server",
+    "server": true,
+    "ui_config": {
+        "enabled": true
+    }
+}
